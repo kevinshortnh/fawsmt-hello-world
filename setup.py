@@ -17,7 +17,7 @@ AUTHOR = 'Kevin Short'
 AUTHOR_EMAIL = 'kevin.short@rackspace.com'
 URL = 'https://github.rackspace.com/kevi9532/fawsmt-hello-world/'
 
-VERSION = '0.0.0'
+VERSION = '0.0.1'
 
 SCRIPT = '{}={}.{}:{}'.format(NAME, PACKAGE, 'hello', 'main')
 
