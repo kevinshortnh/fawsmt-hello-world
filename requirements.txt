@@ -1,1 +1,5 @@
+appdirs
 bumpversion
+packaging
+pyparsing
+six
