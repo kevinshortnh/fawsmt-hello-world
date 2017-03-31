@@ -1,5 +1,12 @@
 appdirs
 bumpversion
+fawsmt-hello-world
+linecache2
 packaging
+pluggy
+py
 pyparsing
 six
+tox
+traceback2
+virtualenv

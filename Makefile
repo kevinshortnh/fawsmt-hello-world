@@ -13,6 +13,9 @@ clean: ## clean
 
 #---
 
+init: ## Initialize development environment
+	pip install -r requirements.txt
+
 bump: patch ## Bump the 'patch' number
 
 patch: ## Bump the 'patch' number
