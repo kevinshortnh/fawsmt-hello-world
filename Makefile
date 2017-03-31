@@ -9,9 +9,7 @@ clean: ## clean
 	python setup.py clean
 	$(RM) -r dist
 	$(RM) -r *.egg-info
-#	$(RM) -r build
-#	$(RM) -r setup.cfg
-#	$(RM) *.pyc */*.pyc
+	$(RM) */*.pyc
 
 #---
 
