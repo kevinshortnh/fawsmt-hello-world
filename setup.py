@@ -31,6 +31,9 @@ setup(
     url=URL,
     description=DESCRIPTION,
     include_package_data=True,
+    install_requires=(
+        'jenkins'
+    ),
     package_dir={NAME: PACKAGE},
     platforms=(
         'Linux',

@@ -7,7 +7,7 @@ help:
 
 clean: ## clean
 	python setup.py clean
-	$(RM) -r dist
+	$(RM) -r dist build
 	$(RM) -r *.egg-info
 	$(RM) */*.pyc
 
